@@ -1,0 +1,74 @@
+{
+	"identity": {
+		"portrait": "https://i.imgur.com/Amogr5w.png",
+		"fields": [
+			{ "label": "SURNAME", "value": "BAKER" },
+			{ "label": "GIVEN NAMES", "value": "AMELIA PENELOPE COLLETTE" },
+			{ "label": "NATIONALITY", "value": "UNITED STATES" },
+			{ "label": "OCCUPATION", "value": "UNEMPLOYED / VAGRANT" },
+			{ "label": "PARANATURAL AFFLICTION", "value": "OCCULTIST WITCH" },
+			{ "label": "STATUS", "value": "EVADING CAPTURE" }
+		]
+	},
+
+	"stats": [
+		{ "label": "DATE OF BIRTH", "value": "04/13/1961" },
+		{ "label": "AGE", "value": "24" },
+		{ "label": "SEX", "value": "FEMALE" },
+		{ "label": "EYES", "value": "GREEN" },
+		{ "label": "BLOOD", "value": "B+" },
+		{ "label": "HEIGHT", "value": "5'6\"" },
+		{ "label": "WEIGHT", "value": "132 LBS" },
+		{ "label": "BUILD", "value": "UNDERWEIGHT" },
+		{ "label": "HAIR", "value": "UNKEMPT SHOULDER LENGTH AUBURN" },
+		{ "spacer": true },
+		{ "label": "DISCRETIONARY RESP.", "wide": true, "value": "VOLITILE/UNPREDICTABLE" },
+		{ "spacer": true },
+		{ "label": "WANTED BY", "wide": true, "value": "THE OFFICE ON PARANATURAL ACCIDENTS" },
+		{ "label": "IN CONNECTION TO", "wide": true, "value": "|VIOLATIONS OF THE VEIL SECRECY ACT OF 1964|" },
+		{ "spacer": true },
+		{ "label": "LAST KNOWN LOCATION", "wide": true, "value": "ELSINORE THEATER, 170 HIGH STREET SE SALEM, OR" },
+		{ "label": "POSSIBLE DESTINATION", "wide": true, "value": "UNKNOWN" },
+		{ "label": "INTENT", "wide": true, "value": "|FURTHER VIOLATIONS OF THE VEIL SECRECY ACT OF 1964|" },
+		{ "label": "AGENT DISPATCHED FOR RETRIEVAL", "wide": true, "value": "|Doctor James Sephen, Head of Paranatural Research|" },
+		{ "spacer": true },
+		{ "label": "IDENT MARKS", "wide": true, "value": "SEVERE BURNS L. HAND/L. ARM, PIERCING R. NOSTRIL" },
+		{ "spacer": true },
+		{ "label": "CALL IF FOUND", "wide": true, "value": "OPA EMRGC # 555-321-6436" }
+	],
+
+	"narrative": [
+		"#ACCOUNT OF KNOWN SUBJECT INFORMATION BY DOCTOR |JAMES SEPHEN|, HEAD OF |PARANATURAL RESEARCH| DEPARTMENT#\n\nOriginally having been discovered by the OPA in December of 1984, Subject appears to be a wielder of the Occult like myself and others of the agency. Herself, her brother, and her father originally came to Salem, OR in search of refuge from the creatures that lurk from beyond the veil and devour those who wield Occult power. Their father was killed by a Vampiric Cult run by former Occultist turned Vampire, Martin Thatch, Son of deceased CEO of the Thatch Pharmaceutical Company, Jarvis H. Thatch.\n\nThe reason the Baker Family, specifically Subject Amelia Baker may have flown under our radar was their lack of explosive presence they seem to 'now' revel in as both Amelia and her brother Jakob wish to rage war against those they perceive to wrong them. Committing several |Veil Violations| along the way and forcibly converting one Detective Johnathon Stills into a Witness to the Paranormal to aide in their rampage across Salem.\n\nWhat little is known about their lives before becoming relevant to our agency is their father originally sold Television sets after serving in the US Army. Mother is presumed to be an undiscovered occultist. After the twins were born they went into hiding and only come up in distant background checks from the father for fire arm purchases across the United States."
+	],
+
+	"relations": [
+		{
+			"name": "Jakob Baker",
+			"standing": 3.0,
+			"scrambled": true,
+			"portrait": "",
+			"description": "Brother to Amelia Baker, Partner in crime.\n\nPossesses no Paranatural Abilities however has been trained by their father in several martial combat arts, and fire arms training. Approach with caution."
+		},
+		{
+			"name": "Conner Baker [DECEASED]",
+			"standing": 5.0,
+			"scrambled": true,
+			"portrait": "",
+			"description": "Former US Army Green Beret. Father to Amelia Baker, presumed deceased at the Bridgemore Heights Apartment Complex, body never recovered."
+		},
+		{
+			"name": "Detective Johnathon Stills",
+			"standing": -1.0,
+			"scrambled": true,
+			"portrait": "",
+			"description": "Former US Marine, Veteran of the Vietnam War, Salem Police Department Head of Special Investigations, Witness to the Paranormal.\n\nHelped Amelia and Jakob Baker evade certain death from Martin Thatch in exchange for the rescue of his daughter, Karen Stills. Refuses to comply with agency questions. Presumed non-threat."
+		},
+		{
+			"name": "Martin Thatch",
+			"standing": -4.0,
+			"scrambled": true,
+			"portrait": "",
+			"description": "Former Occultist, Vampiric Cult Leader\n\nResponsible for the deaths of Amelia and Jakob Bakers father, Thatch continues to elude the agency. Recommend immediate capture at all costs."
+		}
+	]
+}
