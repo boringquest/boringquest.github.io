@@ -1,0 +1,31 @@
+{
+	"identity": {
+		"portrait": "https://defendervex.github.io/bio/assets/taylor_hayes/profile.png",
+		"fields": [
+			{ "label": "SURNAME", "value": "Hayes" },
+			{ "label": "GIVEN NAMES", "value": "Taylor Clayton" },
+			{ "label": "NATIONALITY", "value": "United States of America" },
+			{ "label": "OCCUPATION", "value": "Electrician" }
+		]
+	},
+
+	"stats": [
+		{ "label": "DATE OF BIRTH", "value": "||00|| / ||00|| / ||00||" },
+		{ "label": "AGE", "value": "25" },
+		{ "label": "SEX", "value": "Male" },
+		{ "label": "EYES", "value": "Green-Brown" },
+		{ "label": "BLOOD", "value": "||AB+||" },
+		{ "label": "HEIGHT", "value": "5'10\"" },
+		{ "label": "WEIGHT", "value": "169 lbs" },
+		{ "label": "BUILD", "value": "Athletic" },
+		{ "label": "HAIR", "value": "Mid-Length Dark Blonde" },
+		{ "spacer": true },
+		{ "label": "ADDRESS", "wide": true, "value": "||----|| Granite Road, Unit 3, Granite County, VA ||-----||" }
+	],
+
+	"narrative": [],
+
+	"relations": [
+		{ "name": "", "standing": 3.0, "portrait": "", "description": "" }
+	]
+}
