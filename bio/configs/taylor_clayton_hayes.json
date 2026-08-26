@@ -1,6 +1,6 @@
 {
 	"identity": {
-		"portrait": "https://defendervex.github.io/bio/assets/taylor_hayes/profile.png",
+		"portrait": "https://i.imgur.com/8rFnXV2.png",
 		"fields": [
 			{ "label": "SURNAME", "value": "Hayes" },
 			{ "label": "GIVEN NAMES", "value": "Taylor Clayton" },
@@ -23,9 +23,13 @@
 		{ "label": "ADDRESS", "wide": true, "value": "||----|| Granite Road, Unit 3, Granite County, VA ||-----||" }
 	],
 
-	"narrative": [],
+	"narrative": [
+		"Born in the ||Lakeridge Commune|| in Alaska to ||Eric| and ||Cassandra|| Hayes, Taylor is the youngest of two children. His older brother Jason was drafted during the Vietnam War and elected to remain in the military following its conclusion after being offered the opportunity to train as a green baret. Suffering a similar situation as his older brother, Taylor was met with the disapproval of his parents and the ||commune|| when he willingly pursued ||federal employment||, leading him like his brother to be largely disowned thanks to his parents strong ||anti-government|| sentiment."
+	],
 
 	"relations": [
-		{ "name": "", "standing": 3.0, "portrait": "", "description": "" }
+		{ "name": "Eric ||Hayes||", "standing": -3.0, "scrambled": true, "portrait": "", "description": "" },
+		{ "name": "Cassandra ||Hayes||", "standing": -2.0, "scrambled": true, "portrait": "", "description": "" },
+		{ "name": "Jason Jayes", "standing": 4.0, "scrambled": true, "deceased": true, "portrait": "", "description": "" }
 	]
 }
